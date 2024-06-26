@@ -1,2 +1,0 @@
-mkdir mynodeapp
-cd mynodeapp
